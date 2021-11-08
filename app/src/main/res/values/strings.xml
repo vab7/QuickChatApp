@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuickChatApp</string>
+    <string name="quick_chat">Quick Chat</string>
+    <string name="chat_with_your">Chat with your favourite person and a cup of tea.</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="create_account">Create Account</string>
+</resources>
